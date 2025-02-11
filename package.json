@@ -1,0 +1,31 @@
+{
+  "name": "practica4_230318",
+  "version": "1.0.0",
+  "description": "Creacion del repo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathan2536/Practica4_230318.git"
+  },
+  "keywords": [],
+  "author": "Jonathan2536",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonathan2536/Practica4_230318/issues"
+  },
+  "homepage": "https://github.com/Jonathan2536/Practica4_230318#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "macaddress": "^0.5.3",
+    "moment-timezone": "^0.5.46",
+    "mongoose": "^8.9.6",
+    "uuid": "^11.0.5"
+  }
+}
