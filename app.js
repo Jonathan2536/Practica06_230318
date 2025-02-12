@@ -54,7 +54,7 @@ const getClientMac = (req) => {
 
 // Ruta de bienvenida
 app.get('/', (req, res) => {
-    res.status(200).json({ message: 'Bienvenido a la API de sesiones', author: 'Angel de Jesus Baños' });
+    res.status(200).json({ message: 'Bienvenido al imalaya', author: 'Jonathan Emmanuel López Morales' });
 });
 
 app.post('/login', async (req, res) => {
@@ -179,4 +179,4 @@ app.delete('/deleteAllSessions', async (req, res) => {
 });
 
 // Iniciar el servidor
-app.listen(3001, () => console.log('Servidor corriendo en puerto 3001.'));
+app.listen(3000, () => console.log('Servidor corriendo en puerto 3000.'));

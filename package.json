@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Jonathan2536/Practica4_230318.git"
+    "url": "git+https://github.com/Jonathan2536/Practica06_230318.git"
   },
   "keywords": [],
   "author": "Jonathan2536",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Jonathan2536/Practica4_230318/issues"
+    "url": "https://github.com/Jonathan2536/Practica06_230318/issues"
   },
-  "homepage": "https://github.com/Jonathan2536/Practica4_230318#readme",
+  "homepage": "https://github.com/Jonathan2536/Practica06_230318#readme",
   "dependencies": {
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
